@@ -8,7 +8,7 @@ public class Main {
 
         // Java Banking Program for Beginners
 
-        // 1. Declare Variables   
+        // 1. Declare Variables
         double balance = 0;
         boolean isRunning = true;
         int choice;

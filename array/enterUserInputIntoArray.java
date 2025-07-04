@@ -36,13 +36,9 @@ public class Main {
             foods[i] = scanner.nextLine(); //to accept the user input
         }
 
-
-
-
         for(String food : foods){
             System.out.println(food);
         }
-
 
         scanner.close();
 

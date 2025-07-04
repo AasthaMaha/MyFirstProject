@@ -13,3 +13,9 @@ hotdog
 sushi
 
 ```
+# Search An Array
+```
+Enter a fruit to search for: apple
+Element found at index: 0
+
+```
